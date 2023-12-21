@@ -1,0 +1,12 @@
+lst=[10,2,"a","true"]
+print (len(lst))
+lst.append (30)
+print (lst)
+lst.insert (1,12)
+print (lst )
+lst.pop (2)
+print (lst)
+lst.remove ("a")
+print (lst)
+lst.clear()
+print(lst)

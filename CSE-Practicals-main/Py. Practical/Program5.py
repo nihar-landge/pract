@@ -1,0 +1,25 @@
+s1="Shrawani"
+s2=input("the Second String")
+print(s2)
+s3=(s1+s2)
+print(s3)
+sub1=s1[1:5:1]
+print(sub1)
+sub2=s2[3:4:1]
+print(sub2)
+sub3=s3[2:5:1]
+print(sub3)
+sub4=s3[8:5:3]
+print(sub4)
+sub5=s3[-2:9:5]
+print(sub5)
+sub6=s3[3:5:8]
+print(sub6)
+sub7=s3[7:8:6]
+print(sub7)
+sub8=s3
+print(sub8)
+sub9=s3[-4:5:9]
+print(sub9)
+sub10=s3[2:-5:1]
+print(sub10)
