@@ -1,0 +1,66 @@
+       			Sr. No.	UNIT 1
+1	Explain basic features of Java which makes it powerful Language
+2	Explain various data types supported by Java
+3	Differentiate between procedural language and object oriented language
+4	Explain for loop and while loop with example in java
+5	What is the purpose of  if, if...else statements in java with example
+6	Explain steps for executing a Java Program
+7	What is an Operator ? Explain different types of operators
+8	Write a Java Program to find largest among three numbers
+9	Why Java is known as Platform Independent langauge
+10	Write a Java program to print the square of first 20 odd numbers
+			Sr. No.	UNIT 2
+1	What is arrays in java ?  Explain its types with suitable example
+2	What is Constructor ? Explain with suitable example
+3	What are classes and objects. Explain relationship between classes and objects     
+4	Explain the following  i) class variables ii) local variables iii) instance varibles 
+5	What is method overloading. Explain with suitable example    
+6	What is Constructor ? Write a java application which demonstrate the concept of constructor         overloading
+7	What is an array ? Write a Program in java to sort elements of given array in ascending order  
+8	What is command line arguments. Explain with suitable example
+9	What is the purpose of 'this' keyword. Explain with example
+10	How to declare two dimensional array. Explain how to initialize it
+				Sr. No.	UNIT 3
+1	Explain multilevel inheritance with suitable example   
+2	Explain the following with example i) Final keyword ii) Final method iii) Final class  
+3	What is method Overriding. Explain with suitable example
+4	Explain about Enum type. Explain with suitable example
+5	Explain Hierachical Inheritance with suitable Example
+6	Explain the following with example i) super keyword  ii) this keyword    
+7	What is an interface. Explain with suitable example  
+8	What is Package ? Explain the procedure for creating user defined package
+9	Explain abstract classes with suitable example 
+10	Differentiate between i) Abstract class and Abstract Method   ii) Final class and Final Method 
+					Sr. No.	UNIT 4
+1	What is Exception ? Explain various techniques of exception handling   
+2	Explain following keywords   i) try & catch     ii) throw & throws   
+3	What is Exception handling mechanism. Write an application which handle arithmatithmatic         exception  
+4	Explain checked and unchecked Exceptions. List out them.   
+5	What is Random Access File. Explain methods of it.  
+6	What is Exception handling mechanism. Write an application which handle Array Index out of         bound exception  
+7	Write a Program in java using try, catch and finally blocks
+8	What is serilization and deserilization ? Explain with example  
+9	Explain about Buffered Input stream and Buffered output stream  
+10	Write a Java Program to write bytes to a file using file output stream   
+				Sr. No.	UNIT 5
+1	Explain following methods i) paint ()  ii) update ()  iii) repaint() 
+2	Explain in detail  i) getDocujmentBase()   ii) getCodeBase()  
+3	Explain Applet life cycle in detail  
+4	What is an applet ? Give the major differences between an applet and application 
+5	What are the different parameters of applet tag 
+6	Write an applet program to draw rectangle using drawLine() method and display the 	string'welcome' inside the rectangle   
+7	Explain Life Cycle methods of Applet with Example
+8	Differentiate between applet and application  
+9	What are the various constructors and methods associated with graphics class. Explain in 	detail
+10	Explain about Font and Font metrics class with its constructors and methods
+				Sr. No.	UNIT 6
+1	Write a java application to create a file menu with menu items like New, Open, Save, Print and 	Close 
+2	Explain event delegation model in java with example
+3	Explain procedure for creating Menubar, Menuitem and Menus 
+4	How to create Radio Buttons, List Boxes and Text Area   
+5	What do you mean by adapter class ? Explain in detail
+6	Explain about : i) Adapter class  ii) Listener interfaces   iii) Registration methods  
+7	Explain Mouse Listener and Mouse Motion Listener interface in event delegation model 
+8	Explain : i) Event Sources ii) Event Listener  iii) Mouse Listener   iv) Key Listener  
+9	Write an applet to use of member Inner class. 
+10	Write an applet to implement all the methods of mouse listener and mouse motion listener 
