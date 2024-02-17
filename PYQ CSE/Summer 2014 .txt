@@ -1,0 +1,16 @@
+Summer 2014 :
+Q.1)
+a) Write a slow pattern matching algorithm and apply to caluculate the number of comparison C to find the index of P = (abc) in the text string T=(aaabce)power 4
+
+b) Explain the different asymptotic notations.
+
+Q.2)
+a) Yet S be a character array variable such that S = 'VERY VERY FAST'. Find
+i) INDEX(S,'VERY')
+ii) INDEX(S,'[]VE')
+iii) SUBSTRING(S,1,4)
+iv) SUBSTRING(S,4,7)
+v) LENGTH(S)
+vi) DELETE(S,1,4)
+
+b) Consider an array A: 7 5 8 10 15. Write an algorithm to find sum of even number in A
